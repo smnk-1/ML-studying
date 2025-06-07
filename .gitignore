@@ -12,3 +12,5 @@
 __pycache__/
 
 catboost_info/
+
+kt_dir/
